@@ -70,7 +70,7 @@ const styles = StyleSheet.create({
     marginTop: 30,
     backgroundColor: '#555',
     paddingVertical: 12,
-    paddingHorizontal: 40,
+    paddingHorizontal: 65,
     borderRadius: 8,
   },
   textoBotao: {
